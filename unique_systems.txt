@@ -1,0 +1,315 @@
+ACT - Apricot PC Xi
+APF - Imagination Machine
+APF - MP-1000
+Acorn - Archimedes
+Acorn - Atom
+Acorn - Risc PC
+Acorn RISC OS - Flash Media
+Amstrad - CPC
+Analogue - Analogue Pocket
+Apple - I
+Apple - II
+Apple - II Plus
+Apple - IIGS
+Apple - IIe
+Apple - Macintosh
+Apple-Bandai - Pippin
+Arcade - PC-based
+Arduboy Inc - Arduboy
+Atari - 8-bit Family
+Atari - Atari 2600
+Atari - Atari 5200
+Atari - Atari 7800
+Atari - Atari Jaguar
+Atari - Atari Lynx
+Atari - Atari ST
+Audio CD
+BD-Video
+Bally - Astrocade
+Bandai - Design Master Denshi Mangajuku
+Bandai - Gundam RX-78
+Bandai - WonderSwan
+Bandai - WonderSwan Color
+Bandai Little Jammer
+Bandai Little Jammer Pro
+Benesse - Pocket Challenge V2
+Benesse - Pocket Challenge W
+Bit Corporation - Gamate
+Blaze Entertainment - Evercade
+CD+G
+CD-ROM
+Casio - Loopy
+Casio - PV-1000
+Coleco - ColecoVision
+Commodore - Amiga
+Commodore - Commodore 64
+Commodore - Plus-4
+Commodore - VIC-20
+DVD-Audio
+DVD-ROM
+DVD-Video
+Digital Media Cartridge - Firecore
+Emerson - Arcadia 2001
+Enhanced CD
+Entex - Adventure Vision
+Epoch - Game Pocket Computer
+Epoch - Super Cassette Vision
+Fairchild - Channel F
+Fujitsu - FM Towns
+Fujitsu - FM-7
+Fujitsu - FMR50
+Fukutake Publishing - StudyBox
+Funtech - Super Acan
+GCE - Vectrex
+GamePark - GP2X
+GamePark - GP32
+Google - Android
+HD DVD
+Hartung - Game Master
+Hitachi - S1
+IBM - PC and Compatibles
+Interton - VC 4000
+Konami - Picno
+LeapFrog - Explorer
+LeapFrog - LeapPad
+LeapFrog - Leapster Learning Game System
+Luxor - ABC 800
+MP3 CD
+Magnavox - Odyssey 2
+Mattel - Intellivision
+Microsoft - MSX
+Microsoft - MSX2
+Microsoft - Xbox
+Microsoft - Xbox 360
+Milton-Bradley - Omni
+Mobile - J2ME
+Mobile - Palm OS
+Mobile - Pocket PC
+Mobile - Symbian
+MovieCD
+NEC - PC Engine - TurboGrafx-16
+NEC - PC Engine SuperGrafx
+NEC - PC-88
+NEC - PC-98
+Nichibutsu - My Vision
+Nintendo - Family BASIC
+Nintendo - Family Computer Disk System
+Nintendo - Family Computer Network System
+Nintendo - Game & Watch
+Nintendo - Game Boy
+Nintendo - Game Boy Advance
+Nintendo - Game Boy Color
+Nintendo - Kiosk Video Compact Flash
+Nintendo - Misc
+Nintendo - New Nintendo 3DS
+Nintendo - Nintendo 3DS
+Nintendo - Nintendo 64
+Nintendo - Nintendo 64DD
+Nintendo - Nintendo DS
+Nintendo - Nintendo DSi
+Nintendo - Nintendo Entertainment System
+Nintendo - Nintendo GameCube
+Nintendo - Nintendo Music
+Nintendo - Pokemon Mini
+Nintendo - SDKs
+Nintendo - Satellaview
+Nintendo - Sufami Turbo
+Nintendo - Super Nintendo Entertainment System
+Nintendo - Virtual Boy
+Nintendo - Wallpapers
+Nintendo - Wii
+Nintendo - Wii U
+Nintendo - amiibo
+Nokia - N-Gage
+Non-Redump - Apple-Bandai - Pippin
+Non-Redump - Atari - Atari Jaguar CD
+Non-Redump - Audio CD
+Non-Redump - BD-Video
+Non-Redump - Capcom - Play System III
+Non-Redump - Commodore - Amiga CD
+Non-Redump - DVD-Video
+Non-Redump - FuRyu & Omron - Purikura
+Non-Redump - Hasbro - iON Educational Gaming System
+Non-Redump - IBM - PC Compatible
+Non-Redump - Konami - M2
+Non-Redump - Konami - Python 2
+Non-Redump - Merit Megatouch
+Non-Redump - Microsoft - Pocket PC
+Non-Redump - Microsoft - Xbox
+Non-Redump - Microsoft - Xbox 360
+Non-Redump - NEC - PC Engine CD + TurboGrafx CD
+Non-Redump - NEC - PC-88
+Non-Redump - Namco - Purikura
+Non-Redump - Nintendo - Nintendo GameCube
+Non-Redump - Nintendo - Wii
+Non-Redump - Nintendo - Wii U
+Non-Redump - Panasonic - 3DO Interactive Multiplayer
+Non-Redump - Philips - CD-i
+Non-Redump - Playmaji - Polymega
+Non-Redump - Sega - ALLS
+Non-Redump - Sega - Dreamcast
+Non-Redump - Sega - Nu
+Non-Redump - Sega - Nu 1.1
+Non-Redump - Sega - Nu 2
+Non-Redump - Sega - Nu SX
+Non-Redump - Sega - Sega Mega CD + Sega CD
+Non-Redump - Sega - Sega Saturn
+Non-Redump - Sega NAOMI Satellite Terminal PC
+Non-Redump - Sharp - Zaurus
+Non-Redump - Sony - PlayStation
+Non-Redump - Sony - PlayStation 2
+Non-Redump - Sony - PlayStation 3
+Non-Redump - Sony - PlayStation Portable
+Non-Redump - Sony Electronic Book
+Non-Redump - VM Labs - NUON
+Non-Redump - ZAPiT Games - Game Wave Family Entertainment System
+Ouya - Ouya
+Panic - Playdate
+Philips - Videopac+
+Project EGG
+RCA - Studio II
+SACD
+SNK - NeoGeo Pocket
+SNK - NeoGeo Pocket Color
+Sanyo - MBC-550
+Sega - 32X
+Sega - Beena
+Sega - Dreamcast
+Sega - Game Gear
+Sega - Master System - Mark III
+Sega - Mega Drive - Genesis
+Sega - PICO
+Sega - SG-1000 - SC-3000
+Seta - Aleck64
+Sharp - MZ-2200
+Sharp - MZ-700
+Sharp - X1
+Sharp - X68000
+Sinclair - ZX Spectrum +3
+Sony - PlayStation
+Sony - PlayStation 3
+Sony - PlayStation Mobile
+Sony - PlayStation Portable
+Sony - PlayStation Vita
+Source Code - Apple - II
+Source Code - Apple - IIGS
+Source Code - Arcade
+Source Code - Atari - 8-bit Family
+Source Code - Atari - Atari 2600
+Source Code - IBM - PC and Compatibles
+Source Code - Mobile - Palm OS
+Source Code - Nintendo - Game Boy Advance
+Source Code - Nintendo - Game Boy Color
+Source Code - Nintendo - Nintendo DS
+Source Code - Nintendo - Nintendo Entertainment System
+Source Code - Nintendo - Nintendo GameCube
+Source Code - Nintendo - Super Nintendo Entertainment System
+Source Code - Panasonic - 3DO Interactive Multiplayer
+Source Code - Panasonic - M2
+Source Code - Sega - DreamCast
+Source Code - VM Labs - NUON
+Source Code - Various
+TEMP IBM - PC and Compatibles
+TeleNova - Compis
+Texas Instruments - TI-99-4A
+Tiger - Game.com
+Tiger - Gizmondo
+Toshiba - Pasopia
+Toshiba - Visicom
+UHD-BD
+Unofficial - Microsoft - Xbox 360
+Unofficial - Nintendo - Nintendo 3DS
+Unofficial - Nintendo - Wii
+Unofficial - Nintendo - Wii U
+Unofficial - Obscure Gamers
+Unofficial - Sony - PlayStation 3
+Unofficial - Sony - PlayStation Portable
+Unofficial - Sony - PlayStation Vita
+Unofficial - Super Mario Maker Courses
+Unofficial - Video Game Documents
+Unofficial - Video Game Magazine Scans
+Unofficial - Video Game Manual Scans
+Unofficial - Video Game OSTs
+Unofficial - Video Game Scans
+VM Labs - NUON
+VTech - CreatiVision
+VTech - V.Smile
+Various - itch.io
+Video CD
+Watara - Supervision
+Web - Humble Play
+Welback - Mega Duck
+Yamaha - Copera
+Zeebo - Zeebo
+iQue - iQue
+Apple - Macintosh - SBI Subchannels
+Arcade - Hasbro - VideoNow
+Arcade - Hasbro - VideoNow Color
+Arcade - Hasbro - VideoNow Jr
+Arcade - Hasbro - VideoNow XP
+Arcade - Konami - FireBeat
+Arcade - Konami - M2
+Arcade - Konami - System 573
+Arcade - Konami - System GV
+Arcade - Konami - e-Amusement
+Arcade - Namco - Sega - Nintendo - Triforce
+Arcade - Namco - Sega - Nintendo - Triforce - GDI Files
+Arcade - Namco - System 246
+Arcade - Sega - Chihiro
+Arcade - Sega - Chihiro - GDI Files
+Arcade - Sega - Lindbergh
+Arcade - Sega - Naomi
+Arcade - Sega - Naomi - GDI Files
+Arcade - Sega - Naomi 2
+Arcade - Sega - Naomi 2 - GDI Files
+Arcade - Sega - RingEdge
+Arcade - Sega - RingEdge 2
+Atari - Jaguar CD Interactive Multimedia System
+Audio CD - Spillover Tracks
+Bandai - Pippin
+Bandai - Playdia Quick Interactive System
+Commodore - Amiga CD
+Commodore - Amiga CD32
+Commodore - Amiga CDTV
+Fujitsu - FM-Towns
+HD DVD-Video
+IBM - PC compatible
+IBM - PC compatible - SBI Subchannels
+Incredible Technologies - Eagle
+Mattel - Fisher-Price iXL
+Mattel - HyperScan
+Memorex - Visual Information System
+Microsoft - Xbox - BIOS Images
+NEC - PC Engine CD & TurboGrafx CD
+NEC - PC-88 series
+NEC - PC-98 series
+NEC - PC-FX & PC-FXGA
+Navisoft - Naviken 2.1
+Nintendo - GameCube - BIOS Images
+Nintendo - GameCube - NKit RVZ [zstd-19-128k]
+Nintendo - Wii - NKit RVZ [zstd-19-128k]
+Nintendo - Wii U - Disc Keys
+Nintendo - Wii U - WUX
+Palm
+Panasonic - 3DO Interactive Multiplayer
+Panasonic - M2
+Philips - CD-i
+Photo CD
+PlayStation GameShark Updates
+Pocket PC
+SNK - Neo Geo CD
+Sega - Dreamcast - GDI Files
+Sega - Mega CD & Sega CD
+Sega - Prologue 21
+Sega - Saturn
+Sony - PlayStation - BIOS Images
+Sony - PlayStation - SBI Subchannels
+Sony - PlayStation 2
+Sony - PlayStation 2 - BIOS Images
+Sony - PlayStation 3 - Disc Keys
+Sony - PlayStation 3 - Disc Keys TXT
+TAB-Austria - Quizard
+Tomy - Kiss-Site
+VTech - V.Flash & V.Smile Pro
+ZAPiT Games - Game Wave Family Entertainment System
+funworld - Photo Play

@@ -1,5 +1,5 @@
 # myrient-scraper
 
 ```shell
-ruby scraper.rb
+ruby scrape.rb
 ```

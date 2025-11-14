@@ -3,6 +3,8 @@ require "nokogiri"
 require "json"
 require "fileutils"
 
+require_relative "systems"
+
 BASE_URL = "https://myrient.erista.me/files/"
 TOP_LEVEL_FOLDERS = [
   "No-Intro/",
@@ -28,9 +30,10 @@ def scrape_top_level_folders
 
     systems.each do |system|
       next unless system[:is_folder]
+      system_shortname = get_shortname_for_system(system)
 
       contents = get_folder(system[:myrient_href])
-      games = parse_folder_contents_from_document(system[:myrient_href], contents)
+      games = parse_folder_contents_from_document(system[:myrient_href], contents, system_shortname:)
       write_to_data_directory(JSON.generate(games), system[:next])
     end
   end
@@ -51,7 +54,7 @@ def handle_response(response)
   Nokogiri::HTML(response.body)
 end
 
-def parse_folder_contents_from_document(previous_folders, document, extra_for_next: "")
+def parse_folder_contents_from_document(previous_folders, document, extra_for_next: "", system_shortname: nil)
   document.css("td.link>a").filter_map do |folder|
     name = folder.text.strip.sub("/", "")
     myrient_href = folder["href"]
@@ -62,7 +65,8 @@ def parse_folder_contents_from_document(previous_folders, document, extra_for_ne
       name:,
       myrient_href: "#{previous_folders}#{myrient_href}",
       is_folder:,
-      next: is_folder ? "#{extra_for_next}#{sanitize_filename(name)}.json" : nil
+      next: is_folder ? "#{extra_for_next}#{sanitize_filename(name)}.json" : nil,
+      system_shortname:
     }
   end
 end
@@ -98,6 +102,15 @@ def parse_destination_without_filename(destination)
   parts = destination.split("/")
   parts.pop
   parts.join("/")
+end
+
+def get_shortname_for_system(system)
+  KNOWN_SYSTEMS.each do |known_system|
+    if known_system[:regex].match(system[:name])
+      return known_system[:shortname]
+    end
+  end
+  nil
 end
 
 start_scraper

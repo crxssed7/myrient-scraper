@@ -1,0 +1,544 @@
+ACT - Apricot PC Xi
+APF - Imagination Machine
+APF - MP-1000
+Acorn - Archimedes
+Acorn - Atom (Tapes) (Bitstream)
+Acorn - Risc PC (Flux)
+Acorn RISC OS - Flash Media (Misc)
+Amstrad - CPC (Flux)
+Amstrad - CPC (Misc)
+Analogue - Analogue Pocket
+Apple - I (Tapes)
+Apple - II (A2R)
+Apple - II (WOZ)
+Apple - II (Waveform)
+Apple - II Plus (Flux)
+Apple - II Plus (WOZ)
+Apple - IIGS (A2R)
+Apple - IIGS (WOZ)
+Apple - IIe (A2R)
+Apple - IIe (Kryoflux)
+Apple - IIe (WOZ)
+Apple - Macintosh (A2R)
+Apple - Macintosh (BETA) (Bitstreams)
+Apple - Macintosh (BETA) (FluxDumps)
+Apple - Macintosh (DC42)
+Apple - Macintosh (KryoFlux)
+Apple - Macintosh (Uncategorized)
+Apple - Macintosh (WOZ)
+Apple-Bandai - Pippin (Floppies)
+Arcade - PC-based
+Arduboy Inc - Arduboy
+Atari - 8-bit Family
+Atari - 8-bit Family (Aftermarket)
+Atari - 8-bit Family (Kryoflux)
+Atari - Atari 2600
+Atari - Atari 2600 (Aftermarket)
+Atari - Atari 2600 (Private)
+Atari - Atari 5200
+Atari - Atari 7800 (A78) (Aftermarket)
+Atari - Atari 7800 (A78) (Private)
+Atari - Atari 7800 (BIN)
+Atari - Atari 7800 (BIN) (Aftermarket)
+Atari - Atari 7800 (BIN) (Private)
+Atari - Atari Jaguar (ABS) (Aftermarket)
+Atari - Atari Jaguar (COF) (Aftermarket)
+Atari - Atari Jaguar (J64)
+Atari - Atari Jaguar (J64) (Aftermarket)
+Atari - Atari Jaguar (JAG)
+Atari - Atari Jaguar (JAG) (Aftermarket)
+Atari - Atari Jaguar (ROM)
+Atari - Atari Jaguar (ROM) (Aftermarket)
+Atari - Atari Lynx (BLL)
+Atari - Atari Lynx (BLL) (Aftermarket)
+Atari - Atari Lynx (LNX)
+Atari - Atari Lynx (LNX) (Aftermarket)
+Atari - Atari Lynx (LNX) (Private)
+Atari - Atari Lynx (LYX)
+Atari - Atari Lynx (LYX) (Aftermarket)
+Atari - Atari Lynx (LYX) (Private)
+Atari - Atari ST
+Atari - Atari ST (Flux)
+Audio CD
+BD-Video
+Bally - Astrocade
+Bally - Astrocade (Tapes)
+Bally - Astrocade (Tapes) (WAV)
+Bandai - Design Master Denshi Mangajuku
+Bandai - Gundam RX-78
+Bandai - WonderSwan
+Bandai - WonderSwan Color
+Bandai - WonderSwan Color (Aftermarket)
+Bandai Little Jammer (BIN)
+Bandai Little Jammer Pro (BIN)
+Benesse - Pocket Challenge V2
+Benesse - Pocket Challenge W
+Bit Corporation - Gamate
+Blaze Entertainment - Evercade
+CD+G
+CD-ROM
+Casio - Loopy (BigEndian)
+Casio - Loopy (LittleEndian)
+Casio - PV-1000
+Coleco - ColecoVision
+Commodore - Amiga
+Commodore - Amiga (Bitstream)
+Commodore - Amiga (Flux)
+Commodore - Commodore 64
+Commodore - Commodore 64 (Aftermarket)
+Commodore - Commodore 64 (Headerless)
+Commodore - Commodore 64 (PP)
+Commodore - Commodore 64 (Tapes)
+Commodore - Plus-4
+Commodore - VIC-20
+DVD-Audio
+DVD-ROM
+DVD-Video
+Digital Media Cartridge - Firecore
+Emerson - Arcadia 2001
+Enhanced CD
+Entex - Adventure Vision
+Epoch - Game Pocket Computer
+Epoch - Super Cassette Vision
+Fairchild - Channel F
+Fujitsu - FM Towns (Flux)
+Fujitsu - FM Towns (HDM)
+Fujitsu - FM-7 (Bitstream)
+Fujitsu - FM-7 (Flux)
+Fujitsu - FM-7 (Sector)
+Fujitsu - FM-7 (Tapes) (Bitstream)
+Fujitsu - FM-7 (Tapes) (Waveform)
+Fujitsu - FMR50 (Flux)
+Fukutake Publishing - StudyBox
+Funtech - Super Acan
+GCE - Vectrex
+GamePark - GP2X
+GamePark - GP32
+Google - Android (Amazon Appstore) (APK)
+Google - Android (Google Play Store) (APK)
+Google - Android (Misc) (APK)
+Google - Android (Samsung Galaxy Apps) (APK)
+HD DVD
+Hartung - Game Master
+Hitachi - S1 (Waveform)
+IBM - PC and Compatibles (Digital) (Amazon)
+IBM - PC and Compatibles (Digital) (BOOTH)
+IBM - PC and Compatibles (Digital) (Ci-en)
+IBM - PC and Compatibles (Digital) (DLsite)
+IBM - PC and Compatibles (Digital) (DLsite) (Hentai)
+IBM - PC and Compatibles (Digital) (Denpasoft)
+IBM - PC and Compatibles (Digital) (Desura)
+IBM - PC and Compatibles (Digital) (Epic Games Launcher)
+IBM - PC and Compatibles (Digital) (FANZA)
+IBM - PC and Compatibles (Digital) (FANZA) (Doujin)
+IBM - PC and Compatibles (Digital) (Flash)
+IBM - PC and Compatibles (Digital) (Freem!)
+IBM - PC and Compatibles (Digital) (GOG)
+IBM - PC and Compatibles (Digital) (GamersGate)
+IBM - PC and Compatibles (Digital) (Games for Windows Live)
+IBM - PC and Compatibles (Digital) (Games for Windows Live) (Deprecated)
+IBM - PC and Compatibles (Digital) (Getchu.com)
+IBM - PC and Compatibles (Digital) (Groupees)
+IBM - PC and Compatibles (Digital) (Humble Bundle)
+IBM - PC and Compatibles (Digital) (JAST USA)
+IBM - PC and Compatibles (Digital) (Johren)
+IBM - PC and Compatibles (Digital) (Kagura Games)
+IBM - PC and Compatibles (Digital) (MangaGamer)
+IBM - PC and Compatibles (Digital) (Microsoft Store)
+IBM - PC and Compatibles (Digital) (Misc)
+IBM - PC and Compatibles (Digital) (Misc) (Hentai)
+IBM - PC and Compatibles (Digital) (NovelGameCollection)
+IBM - PC and Compatibles (Digital) (Press Kits)
+IBM - PC and Compatibles (Digital) (Steam)
+IBM - PC and Compatibles (Digital) (Steam) (Hentai)
+IBM - PC and Compatibles (Digital) (Unknown)
+IBM - PC and Compatibles (Digital) (Updates and DLC)
+IBM - PC and Compatibles (Flash Media)
+IBM - PC and Compatibles (Flux)
+IBM - PC and Compatibles (IPF)
+IBM - PC and Compatibles (LooseFilesArchive)
+IBM - PC and Compatibles (SCP)
+IBM - PC and Compatibles (Tiger Electronics - Net Jet)
+Interton - VC 4000
+Konami - Picno
+LeapFrog - Explorer
+LeapFrog - LeapPad
+LeapFrog - Leapster Learning Game System
+Luxor - ABC 800 (Flux)
+MP3 CD
+Magnavox - Odyssey 2
+Mattel - Intellivision
+Mattel - Intellivision (Aftermarket)
+Microsoft - MSX
+Microsoft - MSX (Aftermarket)
+Microsoft - MSX2
+Microsoft - MSX2 (Aftermarket)
+Microsoft - Xbox (Development Kit Hard Drives)
+Microsoft - Xbox 360 (Development Kit Hard Drives)
+Microsoft - Xbox 360 (Digital)
+Milton-Bradley - Omni (Waveform)
+Mobile - J2ME
+Mobile - Palm OS
+Mobile - Palm OS (Digital)
+Mobile - Pocket PC
+Mobile - Pocket PC (Digital)
+Mobile - Symbian
+MovieCD
+NEC - PC Engine - TurboGrafx-16
+NEC - PC Engine - TurboGrafx-16 (Aftermarket)
+NEC - PC Engine - TurboGrafx-16 (Private)
+NEC - PC Engine SuperGrafx
+NEC - PC Engine SuperGrafx (Aftermarket)
+NEC - PC-88 (Flux)
+NEC - PC-88 (KryoFlux)
+NEC - PC-98
+NEC - PC-98 (Flux)
+NEC - PC-98 (Greaseweazle)
+NEC - PC-98 (HardDisk)
+NEC - PC-98 (Uncategorized)
+Nichibutsu - My Vision
+Nichibutsu - My Vision (Mame)
+Nintendo - Family BASIC (Tapes)
+Nintendo - Family Computer Disk System (FDS)
+Nintendo - Family Computer Disk System (FDS) (Aftermarket)
+Nintendo - Family Computer Disk System (QD)
+Nintendo - Family Computer Network System
+Nintendo - Game & Watch
+Nintendo - Game Boy
+Nintendo - Game Boy (Aftermarket)
+Nintendo - Game Boy (Private)
+Nintendo - Game Boy Advance
+Nintendo - Game Boy Advance (Aftermarket)
+Nintendo - Game Boy Advance (Multiboot)
+Nintendo - Game Boy Advance (Play-Yan)
+Nintendo - Game Boy Advance (Private)
+Nintendo - Game Boy Advance (Video)
+Nintendo - Game Boy Advance (Video) (Aftermarket)
+Nintendo - Game Boy Advance (Video) (Private)
+Nintendo - Game Boy Advance (e-Reader)
+Nintendo - Game Boy Advance (e-Reader) (Aftermarket)
+Nintendo - Game Boy Color
+Nintendo - Game Boy Color (Aftermarket)
+Nintendo - Game Boy Color (Private)
+Nintendo - Kiosk Video Compact Flash (CardImage)
+Nintendo - Kiosk Video Compact Flash (Extracted)
+Nintendo - Misc
+Nintendo - New Nintendo 3DS (Decrypted)
+Nintendo - New Nintendo 3DS (Digital) (Deprecated)
+Nintendo - New Nintendo 3DS (Encrypted)
+Nintendo - Nintendo 3DS (Decrypted)
+Nintendo - Nintendo 3DS (Digital) (CDN)
+Nintendo - Nintendo 3DS (Digital) (Deprecated)
+Nintendo - Nintendo 3DS (Digital) (Dev ROMs)
+Nintendo - Nintendo 3DS (Digital) (Pre-Install)
+Nintendo - Nintendo 3DS (Digital) (SpotPass)
+Nintendo - Nintendo 3DS (Encrypted)
+Nintendo - Nintendo 64 (BigEndian)
+Nintendo - Nintendo 64 (BigEndian) (Aftermarket)
+Nintendo - Nintendo 64 (BigEndian) (Private)
+Nintendo - Nintendo 64 (ByteSwapped)
+Nintendo - Nintendo 64 (ByteSwapped) (Aftermarket)
+Nintendo - Nintendo 64 (ByteSwapped) (Private)
+Nintendo - Nintendo 64 (Mario no Photopi SmartMedia)
+Nintendo - Nintendo 64DD
+Nintendo - Nintendo DS (DSvision SD cards)
+Nintendo - Nintendo DS (Decrypted)
+Nintendo - Nintendo DS (Decrypted) (Aftermarket)
+Nintendo - Nintendo DS (Decrypted) (Private)
+Nintendo - Nintendo DS (Download Play)
+Nintendo - Nintendo DS (Encrypted)
+Nintendo - Nintendo DS (Encrypted) (Aftermarket)
+Nintendo - Nintendo DS (Encrypted) (Private)
+Nintendo - Nintendo DSi (Decrypted)
+Nintendo - Nintendo DSi (Digital)
+Nintendo - Nintendo DSi (Digital) (CDN) (Decrypted)
+Nintendo - Nintendo DSi (Digital) (CDN) (Encrypted)
+Nintendo - Nintendo DSi (Encrypted)
+Nintendo - Nintendo Entertainment System (Headered)
+Nintendo - Nintendo Entertainment System (Headered) (Aftermarket)
+Nintendo - Nintendo Entertainment System (Headered) (Private)
+Nintendo - Nintendo Entertainment System (Headerless)
+Nintendo - Nintendo Entertainment System (Headerless) (Aftermarket)
+Nintendo - Nintendo Entertainment System (Headerless) (Private)
+Nintendo - Nintendo GameCube (Memory Card)
+Nintendo - Nintendo GameCube (NPDP Carts)
+Nintendo - Nintendo Music (M4A)
+Nintendo - Nintendo Music (Tracks)
+Nintendo - Pokemon Mini
+Nintendo - Pokemon Mini (Aftermarket)
+Nintendo - SDKs
+Nintendo - Satellaview
+Nintendo - Satellaview (Aftermarket)
+Nintendo - Sufami Turbo
+Nintendo - Super Nintendo Entertainment System
+Nintendo - Super Nintendo Entertainment System (Aftermarket)
+Nintendo - Super Nintendo Entertainment System (Private)
+Nintendo - Virtual Boy
+Nintendo - Virtual Boy (Aftermarket)
+Nintendo - Virtual Boy (Private)
+Nintendo - Wallpapers
+Nintendo - Wii (Development Kit Hard Drives)
+Nintendo - Wii (Digital) (CDN)
+Nintendo - Wii (Starlight Fun Center)
+Nintendo - Wii U (Development Kit Hard Drives)
+Nintendo - Wii U (Digital) (CDN)
+Nintendo - Wii U (Digital) (CDN) (Dev)
+Nintendo - Wii U (Digital) (CDN) (Lotcheck)
+Nintendo - amiibo
+Nokia - N-Gage (WIP)
+Non-Redump - Apple-Bandai - Pippin
+Non-Redump - Atari - Atari Jaguar CD
+Non-Redump - Audio CD
+Non-Redump - BD-Video
+Non-Redump - Capcom - Play System III
+Non-Redump - Commodore - Amiga CD
+Non-Redump - DVD-Video
+Non-Redump - FuRyu & Omron - Purikura
+Non-Redump - Hasbro - iON Educational Gaming System
+Non-Redump - IBM - PC Compatible (Discs)
+Non-Redump - IBM - PC Compatible (Discs) (Hentai)
+Non-Redump - Konami - M2
+Non-Redump - Konami - Python 2
+Non-Redump - Merit Megatouch
+Non-Redump - Microsoft - Pocket PC
+Non-Redump - Microsoft - Xbox
+Non-Redump - Microsoft - Xbox 360
+Non-Redump - NEC - PC Engine CD + TurboGrafx CD
+Non-Redump - NEC - PC Engine CD + TurboGrafx CD (Aftermarket)
+Non-Redump - NEC - PC-88
+Non-Redump - Namco - Purikura
+Non-Redump - Nintendo - Nintendo GameCube
+Non-Redump - Nintendo - Nintendo GameCube (Aftermarket)
+Non-Redump - Nintendo - Nintendo GameCube (Private)
+Non-Redump - Nintendo - Wii
+Non-Redump - Nintendo - Wii U
+Non-Redump - Panasonic - 3DO Interactive Multiplayer
+Non-Redump - Philips - CD-i
+Non-Redump - Philips - CD-i (Aftermarket)
+Non-Redump - Playmaji - Polymega
+Non-Redump - Sega - ALLS
+Non-Redump - Sega - Dreamcast
+Non-Redump - Sega - Dreamcast (Aftermarket)
+Non-Redump - Sega - Dreamcast (Private)
+Non-Redump - Sega - Nu
+Non-Redump - Sega - Nu 1.1
+Non-Redump - Sega - Nu 2
+Non-Redump - Sega - Nu SX
+Non-Redump - Sega - Sega Mega CD + Sega CD
+Non-Redump - Sega - Sega Mega CD + Sega CD (Aftermarket)
+Non-Redump - Sega - Sega Saturn
+Non-Redump - Sega NAOMI Satellite Terminal PC
+Non-Redump - Sharp - Zaurus
+Non-Redump - Sony - PlayStation
+Non-Redump - Sony - PlayStation 2
+Non-Redump - Sony - PlayStation 3
+Non-Redump - Sony - PlayStation Portable
+Non-Redump - Sony Electronic Book
+Non-Redump - VM Labs - NUON
+Non-Redump - ZAPiT Games - Game Wave Family Entertainment System
+Ouya - Ouya
+Panic - Playdate (Catalog) (Decrypted)
+Panic - Playdate (Catalog) (Encrypted)
+Panic - Playdate (Seasons)
+Panic - Playdate (Various)
+Panic - Playdate (itch.io)
+Philips - Videopac+
+Project EGG
+RCA - Studio II
+SACD
+SNK - NeoGeo Pocket
+SNK - NeoGeo Pocket Color
+Sanyo - MBC-550 (Flux)
+Sega - 32X
+Sega - 32X (Aftermarket)
+Sega - Beena
+Sega - Dreamcast (Development Kit Hard Drives)
+Sega - Dreamcast (Visual Memory Unit)
+Sega - Game Gear
+Sega - Game Gear (Aftermarket)
+Sega - Master System - Mark III
+Sega - Master System - Mark III (Aftermarket)
+Sega - Master System - Mark III (Private)
+Sega - Mega Drive - Genesis
+Sega - Mega Drive - Genesis (Aftermarket)
+Sega - Mega Drive - Genesis (Private)
+Sega - PICO
+Sega - SG-1000 - SC-3000
+Sega - SG-1000 - SC-3000 (Aftermarket)
+Seta - Aleck64 (BigEndian)
+Seta - Aleck64 (ByteSwapped)
+Sharp - MZ-2200 (Waveform)
+Sharp - MZ-700 (Waveform)
+Sharp - X1 (Waveform)
+Sharp - X68000 (Flux)
+Sinclair - ZX Spectrum +3
+Sony - PlayStation (PS one Classics) (PSN)
+Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)
+Sony - PlayStation 3 (PSN) (Avatars)
+Sony - PlayStation 3 (PSN) (Content)
+Sony - PlayStation 3 (PSN) (DLC)
+Sony - PlayStation 3 (PSN) (Themes)
+Sony - PlayStation 3 (PSN) (Updates)
+Sony - PlayStation Mobile (PSN)
+Sony - PlayStation Portable (PSN) (Decrypted)
+Sony - PlayStation Portable (PSN) (Encrypted)
+Sony - PlayStation Portable (PSN) (Minis) (Decrypted)
+Sony - PlayStation Portable (PSN) (Minis) (Encrypted)
+Sony - PlayStation Vita (PSN) (Content)
+Sony - PlayStation Vita (PSN) (Updates)
+Source Code - Apple - II
+Source Code - Apple - IIGS
+Source Code - Arcade
+Source Code - Atari - 8-bit Family
+Source Code - Atari - Atari 2600 (Aftermarket)
+Source Code - IBM - PC and Compatibles
+Source Code - Mobile - Palm OS
+Source Code - Nintendo - Game Boy Advance
+Source Code - Nintendo - Game Boy Color
+Source Code - Nintendo - Nintendo DS
+Source Code - Nintendo - Nintendo Entertainment System
+Source Code - Nintendo - Nintendo GameCube
+Source Code - Nintendo - Super Nintendo Entertainment System
+Source Code - Panasonic - 3DO Interactive Multiplayer
+Source Code - Panasonic - M2
+Source Code - Sega - DreamCast
+Source Code - VM Labs - NUON
+Source Code - Various
+TEMP IBM - PC and Compatibles (Digital) (Games for Windows Marketplace)
+TeleNova - Compis (Flux)
+Texas Instruments - TI-99-4A (A2R)
+Tiger - Game.com
+Tiger - Gizmondo
+Toshiba - Pasopia (BIN)
+Toshiba - Pasopia (WAV)
+Toshiba - Visicom
+UHD-BD
+Unofficial - Microsoft - Xbox 360 (Title Updates)
+Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted)
+Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted)
+Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD)
+Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD)
+Unofficial - Nintendo - Wii U (Digital) (Deprecated)
+Unofficial - Obscure Gamers
+Unofficial - Sony - PlayStation 3 (BD-Video Extras)
+Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)
+Unofficial - Sony - PlayStation Portable (PSN) (Decrypted)
+Unofficial - Sony - PlayStation Portable (PSX2PSP)
+Unofficial - Sony - PlayStation Portable (UMD Music)
+Unofficial - Sony - PlayStation Portable (UMD Video)
+Unofficial - Sony - PlayStation Vita (BlackFinPSV)
+Unofficial - Sony - PlayStation Vita (NoNpDrm)
+Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (NoNpDrm)
+Unofficial - Sony - PlayStation Vita (PSN) (Decrypted) (VPK)
+Unofficial - Sony - PlayStation Vita (PSVgameSD)
+Unofficial - Sony - PlayStation Vita (VPK)
+Unofficial - Super Mario Maker Courses (WARC)
+Unofficial - Video Game Documents (PDF)
+Unofficial - Video Game Magazine Scans (CBZ)
+Unofficial - Video Game Magazine Scans (PDF)
+Unofficial - Video Game Magazine Scans (RAW)
+Unofficial - Video Game Manual Scans (JPEG)
+Unofficial - Video Game OSTs (Digital) (RAW)
+Unofficial - Video Game OSTs (Hardware Recordings)
+Unofficial - Video Game OSTs (Playbutton)
+Unofficial - Video Game Scans (RAW)
+VM Labs - NUON (Digital)
+VTech - CreatiVision
+VTech - V.Smile
+Various - itch.io
+Video CD
+Watara - Supervision
+Watara - Supervision (Aftermarket)
+Watara - Supervision (Private)
+Web - Humble Play
+Welback - Mega Duck
+Welback - Mega Duck (Aftermarket)
+Yamaha - Copera
+Zeebo - Zeebo
+iQue - iQue (CDN)
+iQue - iQue (Decrypted)
+Acorn - Archimedes
+Apple - Macintosh
+Apple - Macintosh - SBI Subchannels
+Arcade - Hasbro - VideoNow
+Arcade - Hasbro - VideoNow Color
+Arcade - Hasbro - VideoNow Jr
+Arcade - Hasbro - VideoNow XP
+Arcade - Konami - FireBeat
+Arcade - Konami - M2
+Arcade - Konami - System 573
+Arcade - Konami - System GV
+Arcade - Konami - e-Amusement
+Arcade - Namco - Sega - Nintendo - Triforce
+Arcade - Namco - Sega - Nintendo - Triforce - GDI Files
+Arcade - Namco - System 246
+Arcade - Sega - Chihiro
+Arcade - Sega - Chihiro - GDI Files
+Arcade - Sega - Lindbergh
+Arcade - Sega - Naomi
+Arcade - Sega - Naomi - GDI Files
+Arcade - Sega - Naomi 2
+Arcade - Sega - Naomi 2 - GDI Files
+Arcade - Sega - RingEdge
+Arcade - Sega - RingEdge 2
+Atari - Jaguar CD Interactive Multimedia System
+Audio CD
+Audio CD - Spillover Tracks
+BD-Video
+Bandai - Pippin
+Bandai - Playdia Quick Interactive System
+Commodore - Amiga CD
+Commodore - Amiga CD32
+Commodore - Amiga CDTV
+DVD-Video
+Fujitsu - FM-Towns
+HD DVD-Video
+IBM - PC compatible
+IBM - PC compatible - SBI Subchannels
+Incredible Technologies - Eagle
+Mattel - Fisher-Price iXL
+Mattel - HyperScan
+Memorex - Visual Information System
+Microsoft - Xbox
+Microsoft - Xbox - BIOS Images (DoM Version)
+Microsoft - Xbox 360
+NEC - PC Engine CD & TurboGrafx CD
+NEC - PC-88 series
+NEC - PC-98 series
+NEC - PC-FX & PC-FXGA
+Navisoft - Naviken 2.1
+Nintendo - GameCube - BIOS Images (DoM Version)
+Nintendo - GameCube - NKit RVZ [zstd-19-128k]
+Nintendo - Wii - NKit RVZ [zstd-19-128k]
+Nintendo - Wii U - Disc Keys
+Nintendo - Wii U - WUX
+Palm
+Panasonic - 3DO Interactive Multiplayer
+Panasonic - M2
+Philips - CD-i
+Photo CD
+PlayStation GameShark Updates
+Pocket PC
+SNK - Neo Geo CD
+Sega - Dreamcast
+Sega - Dreamcast - GDI Files
+Sega - Mega CD & Sega CD
+Sega - Prologue 21
+Sega - Saturn
+Sharp - X68000
+Sony - PlayStation
+Sony - PlayStation - BIOS Images (DoM Version)
+Sony - PlayStation - SBI Subchannels
+Sony - PlayStation 2
+Sony - PlayStation 2 - BIOS Images (DoM Version)
+Sony - PlayStation 3
+Sony - PlayStation 3 - Disc Keys
+Sony - PlayStation 3 - Disc Keys TXT
+Sony - PlayStation Portable
+TAB-Austria - Quizard
+Tomy - Kiss-Site
+VM Labs - NUON
+VTech - V.Flash & V.Smile Pro
+Video CD
+ZAPiT Games - Game Wave Family Entertainment System
+funworld - Photo Play

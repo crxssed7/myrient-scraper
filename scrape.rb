@@ -26,16 +26,19 @@ def scrape_top_level_folders
     top_level_folder = get_folder(folder)
     top_level_folder_name = folder.split("/").first.downcase
     systems = parse_folder_contents_from_document(folder, top_level_folder, extra_for_next: "#{top_level_folder_name}/")
-    write_to_data_directory(JSON.generate(systems), "#{top_level_folder_name}.json")
 
     systems.each do |system|
       next unless system[:is_folder]
       system_shortname = get_shortname_for_system(system)
+      system[:system_shortname] = system_shortname
 
       contents = get_folder(system[:myrient_href])
       games = parse_folder_contents_from_document(system[:myrient_href], contents, system_shortname:)
       write_to_data_directory(JSON.generate(games), system[:next])
     end
+
+    # Do this last so system shortname is included
+    write_to_data_directory(JSON.generate(systems), "#{top_level_folder_name}.json")
   end
 end
 
